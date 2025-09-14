@@ -45,7 +45,7 @@ Simply open `index.html` in your browser.
 ---
 
 ## 📸 Screenshot
-![Homepage Screenshot](assets/3DRotatingCube.png)
+![Screenshot](assets/3DRotatingCube.png)
 
 ---
 
